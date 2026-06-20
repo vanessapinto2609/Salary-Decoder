@@ -1,11 +1,11 @@
 {
-    "name": "ctc_calculator",
-    "short_name": "ctc_calculator",
+    "name": "Salary Decoder",
+    "short_name": "Salary Decoder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Decode your salary — calculate take-home pay, tax breakdowns, and CTC components instantly.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
